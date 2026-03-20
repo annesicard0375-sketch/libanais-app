@@ -1,0 +1,34 @@
+[
+  {
+    "id": "01",
+    "titre": "Se présenter",
+    "theme": "presentations",
+    "mots": [
+      { "id": "m01", "francais": "Bonjour", "libanais": "Marhaba", "phonetique": "mar-ha-ba" },
+      { "id": "m02", "francais": "Comment tu t'appelles ?", "libanais": "Shou ismak ?", "phonetique": "chou is-mak" },
+      { "id": "m03", "francais": "Je m'appelle...", "libanais": "Ismi...", "phonetique": "is-mi" },
+      { "id": "m04", "francais": "Enchanté(e)", "libanais": "Tsharrafna", "phonetique": "tchar-raf-na" },
+      { "id": "m05", "francais": "Ça va ?", "libanais": "Kifak ?", "phonetique": "ki-fak" },
+      { "id": "m06", "francais": "Ça va bien", "libanais": "Mnih", "phonetique": "mnih" },
+      { "id": "m07", "francais": "D'où tu viens ?", "libanais": "Min wen inta ?", "phonetique": "min wen in-ta" },
+      { "id": "m08", "francais": "J'habite à...", "libanais": "Ana sakin bi...", "phonetique": "a-na sa-kin bi" },
+      { "id": "m09", "francais": "Quel âge tu as ?", "libanais": "Adesh omrak ?", "phonetique": "a-dèch om-rak" },
+      { "id": "m10", "francais": "Au revoir", "libanais": "Ma3 el salame", "phonetique": "ma3 el sa-la-mé" }
+    ],
+    "phrases": [
+      { "id": "p01", "francais": "Bonjour, je m'appelle Sarah.", "libanais": "Marhaba, ismi Sarah.", "phonetique": "mar-ha-ba, is-mi Sarah" },
+      { "id": "p02", "francais": "Enchanté, ça va ?", "libanais": "Tsharrafna, kifak ?", "phonetique": "tchar-raf-na, ki-fak" },
+      { "id": "p03", "francais": "Je viens de France.", "libanais": "Ana min Fransa.", "phonetique": "a-na min Fran-sa" },
+      { "id": "p04", "francais": "J'ai 28 ans.", "libanais": "Omri tmenye w 3ashrin.", "phonetique": "om-ri tmé-nyé w 3ach-rin" },
+      { "id": "p05", "francais": "À bientôt !", "libanais": "Lak shofak !", "phonetique": "lak cho-fak" }
+    ],
+    "grammaire": {
+      "titre": "Masculin / Féminin",
+      "explication": "En libanais, on change la fin du mot selon si on parle à un homme ou une femme. 'Kifak' s'adresse à un homme, 'Kifik' à une femme. Simple !",
+      "exemples": [
+        { "masculin": "Kifak ?", "feminin": "Kifik ?", "traduction": "Ça va ?" },
+        { "masculin": "Mnih", "feminin": "Mniha", "traduction": "Ça va bien" }
+      ]
+    }
+  }
+]
