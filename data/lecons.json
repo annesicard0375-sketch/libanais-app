@@ -1,6 +1,7 @@
 [
   {
     "id": "01",
+    "niveau": "A1",
     "titre": "Se présenter",
     "theme": "presentations",
     "mots": [
@@ -33,6 +34,7 @@
   },
   {
     "id": "02",
+    "niveau": "A1",
     "titre": "Les chiffres et les prix",
     "theme": "chiffres",
     "mots": [
@@ -65,6 +67,7 @@
   },
   {
     "id": "03",
+    "niveau": "A1",
     "titre": "Au café",
     "theme": "cafe",
     "mots": [
@@ -97,6 +100,7 @@
   },
   {
     "id": "04",
+    "niveau": "A1",
     "titre": "La famille",
     "theme": "famille",
     "mots": [
@@ -129,11 +133,12 @@
   },
   {
     "id": "05",
+    "niveau": "A1",
     "titre": "Expressions typiques",
     "theme": "expressions",
     "mots": [
       { "id": "m01", "francais": "Mon Dieu !", "libanais": "Yiii !", "phonetique": "yiii", "arabe": "يي!" },
-      { "id": "m02", "francais": "Vraiment ?", "libanais": "Seriously ?", "phonetique": "sé-rious-ly", "arabe": "جد؟" },
+      { "id": "m02", "francais": "Vraiment ?", "libanais": "3anjad ?", "phonetique": "3an-jad", "arabe": "عنجد؟" },
       { "id": "m03", "francais": "C'est quoi ça ?", "libanais": "Shou hal shi ?", "phonetique": "chou hal chi", "arabe": "شو هل شي؟" },
       { "id": "m04", "francais": "Pas de problème", "libanais": "Ma fi shi", "phonetique": "ma fi chi", "arabe": "ما في شي" },
       { "id": "m05", "francais": "Bien sûr", "libanais": "Tab3an", "phonetique": "tab-3an", "arabe": "طبعاً" },
