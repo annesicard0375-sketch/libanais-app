@@ -1,4 +1,5 @@
 import lecons from '@/data/lecons.json'
+import MotCard from '@/app/components/MotCard'
 
 export default function Lecon01() {
   const lecon = lecons[0]
@@ -12,12 +13,13 @@ export default function Lecon01() {
         <h2 className="text-lg font-semibold text-[#1c1c1a] mb-4">Vocabulaire</h2>
         <div className="space-y-3 mb-12">
           {lecon.mots.map((mot) => (
-            <div key={mot.id} className="bg-white border border-[#e0ddd6] rounded-xl p-4">
-              <p className="text-xs text-[#1a6b4a] uppercase tracking-wide mb-1">{mot.francais}</p>
-              <p className="text-xl font-semibold text-[#1c1c1a]">{mot.libanais}</p>
-              <p className="text-sm text-[#6b6b66]">{mot.phonetique}</p>
-              <p className="text-lg text-[#1c1c1a] text-right mt-1" dir="rtl">{mot.arabe}</p>
-            </div>
+            <MotCard
+              key={mot.id}
+              francais={mot.francais}
+              libanais={mot.libanais}
+              phonetique={mot.phonetique}
+              arabe={mot.arabe}
+            />
           ))}
         </div>
 
