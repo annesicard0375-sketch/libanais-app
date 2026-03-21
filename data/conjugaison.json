@@ -1,0 +1,146 @@
+[
+  {
+    "id": "kol",
+    "verbe": "Akal",
+    "traduction": "Manger",
+    "phonetique": "a-kal",
+    "arabe": "أكل",
+    "temps": [
+      {
+        "nom": "Présent",
+        "formes": [
+          { "pronom": "Ana (je)", "forme": "Bekol", "phonetique": "be-kol" },
+          { "pronom": "Inta (tu masc.)", "forme": "Btekol", "phonetique": "bte-kol" },
+          { "pronom": "Inti (tu fém.)", "forme": "Btekle", "phonetique": "btek-lé" },
+          { "pronom": "Hou (il)", "forme": "Byekol", "phonetique": "bye-kol" },
+          { "pronom": "Hiye (elle)", "forme": "Btekol", "phonetique": "bte-kol" },
+          { "pronom": "Nihna (nous)", "forme": "Mnekol", "phonetique": "mne-kol" },
+          { "pronom": "Intu (vous)", "forme": "Bteklo", "phonetique": "btek-lo" },
+          { "pronom": "Hinne (ils/elles)", "forme": "Byeklo", "phonetique": "bye-klo" }
+        ]
+      },
+      {
+        "nom": "Passé",
+        "formes": [
+          { "pronom": "Ana (je)", "forme": "Akalt", "phonetique": "a-kalt" },
+          { "pronom": "Inta (tu masc.)", "forme": "Akalt", "phonetique": "a-kalt" },
+          { "pronom": "Inti (tu fém.)", "forme": "Akalte", "phonetique": "a-kal-té" },
+          { "pronom": "Hou (il)", "forme": "Akal", "phonetique": "a-kal" },
+          { "pronom": "Hiye (elle)", "forme": "Aklet", "phonetique": "ak-let" },
+          { "pronom": "Nihna (nous)", "forme": "Akalna", "phonetique": "a-kal-na" },
+          { "pronom": "Intu (vous)", "forme": "Akaltu", "phonetique": "a-kal-tu" },
+          { "pronom": "Hinne (ils/elles)", "forme": "Akalo", "phonetique": "a-ka-lo" }
+        ]
+      },
+      {
+        "nom": "Futur",
+        "formes": [
+          { "pronom": "Ana (je)", "forme": "Rah bekol", "phonetique": "rah be-kol" },
+          { "pronom": "Inta (tu masc.)", "forme": "Rah btekol", "phonetique": "rah bte-kol" },
+          { "pronom": "Inti (tu fém.)", "forme": "Rah btekle", "phonetique": "rah btek-lé" },
+          { "pronom": "Hou (il)", "forme": "Rah byekol", "phonetique": "rah bye-kol" },
+          { "pronom": "Hiye (elle)", "forme": "Rah btekol", "phonetique": "rah bte-kol" },
+          { "pronom": "Nihna (nous)", "forme": "Rah mnekol", "phonetique": "rah mne-kol" },
+          { "pronom": "Intu (vous)", "forme": "Rah bteklo", "phonetique": "rah btek-lo" },
+          { "pronom": "Hinne (ils/elles)", "forme": "Rah byeklo", "phonetique": "rah bye-klo" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hki",
+    "verbe": "Haka",
+    "traduction": "Parler",
+    "phonetique": "ha-ka",
+    "arabe": "حكى",
+    "temps": [
+      {
+        "nom": "Présent",
+        "formes": [
+          { "pronom": "Ana (je)", "forme": "Behki", "phonetique": "beh-ki" },
+          { "pronom": "Inta (tu masc.)", "forme": "Btehki", "phonetique": "bteh-ki" },
+          { "pronom": "Inti (tu fém.)", "forme": "Btehki", "phonetique": "bteh-ki" },
+          { "pronom": "Hou (il)", "forme": "Byehki", "phonetique": "byeh-ki" },
+          { "pronom": "Hiye (elle)", "forme": "Btehki", "phonetique": "bteh-ki" },
+          { "pronom": "Nihna (nous)", "forme": "Mnehki", "phonetique": "mneh-ki" },
+          { "pronom": "Intu (vous)", "forme": "Btehko", "phonetique": "bteh-ko" },
+          { "pronom": "Hinne (ils/elles)", "forme": "Byehko", "phonetique": "byeh-ko" }
+        ]
+      },
+      {
+        "nom": "Passé",
+        "formes": [
+          { "pronom": "Ana (je)", "forme": "Hakeet", "phonetique": "ha-keet" },
+          { "pronom": "Inta (tu masc.)", "forme": "Hakeet", "phonetique": "ha-keet" },
+          { "pronom": "Inti (tu fém.)", "forme": "Hakeete", "phonetique": "ha-kee-té" },
+          { "pronom": "Hou (il)", "forme": "Haka", "phonetique": "ha-ka" },
+          { "pronom": "Hiye (elle)", "forme": "Haket", "phonetique": "ha-ket" },
+          { "pronom": "Nihna (nous)", "forme": "Hakeena", "phonetique": "ha-kee-na" },
+          { "pronom": "Intu (vous)", "forme": "Hakeetu", "phonetique": "ha-kee-tu" },
+          { "pronom": "Hinne (ils/elles)", "forme": "Hako", "phonetique": "ha-ko" }
+        ]
+      },
+      {
+        "nom": "Futur",
+        "formes": [
+          { "pronom": "Ana (je)", "forme": "Rah behki", "phonetique": "rah beh-ki" },
+          { "pronom": "Inta (tu masc.)", "forme": "Rah btehki", "phonetique": "rah bteh-ki" },
+          { "pronom": "Inti (tu fém.)", "forme": "Rah btehki", "phonetique": "rah bteh-ki" },
+          { "pronom": "Hou (il)", "forme": "Rah byehki", "phonetique": "rah byeh-ki" },
+          { "pronom": "Hiye (elle)", "forme": "Rah btehki", "phonetique": "rah bteh-ki" },
+          { "pronom": "Nihna (nous)", "forme": "Rah mnehki", "phonetique": "rah mneh-ki" },
+          { "pronom": "Intu (vous)", "forme": "Rah btehko", "phonetique": "rah bteh-ko" },
+          { "pronom": "Hinne (ils/elles)", "forme": "Rah byehko", "phonetique": "rah byeh-ko" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ruh",
+    "verbe": "Rah",
+    "traduction": "Aller",
+    "phonetique": "rah",
+    "arabe": "راح",
+    "temps": [
+      {
+        "nom": "Présent",
+        "formes": [
+          { "pronom": "Ana (je)", "forme": "Bruh", "phonetique": "bruh" },
+          { "pronom": "Inta (tu masc.)", "forme": "Btruh", "phonetique": "btruh" },
+          { "pronom": "Inti (tu fém.)", "forme": "Btruh", "phonetique": "btruh" },
+          { "pronom": "Hou (il)", "forme": "Byruh", "phonetique": "by-ruh" },
+          { "pronom": "Hiye (elle)", "forme": "Btruh", "phonetique": "btruh" },
+          { "pronom": "Nihna (nous)", "forme": "Mnruh", "phonetique": "mn-ruh" },
+          { "pronom": "Intu (vous)", "forme": "Btruhho", "phonetique": "btruh-ho" },
+          { "pronom": "Hinne (ils/elles)", "forme": "Byruhho", "phonetique": "by-ruh-ho" }
+        ]
+      },
+      {
+        "nom": "Passé",
+        "formes": [
+          { "pronom": "Ana (je)", "forme": "Ruht", "phonetique": "ruht" },
+          { "pronom": "Inta (tu masc.)", "forme": "Ruht", "phonetique": "ruht" },
+          { "pronom": "Inti (tu fém.)", "forme": "Ruhte", "phonetique": "ruh-té" },
+          { "pronom": "Hou (il)", "forme": "Rah", "phonetique": "rah" },
+          { "pronom": "Hiye (elle)", "forme": "Rahet", "phonetique": "ra-het" },
+          { "pronom": "Nihna (nous)", "forme": "Ruhna", "phonetique": "ruh-na" },
+          { "pronom": "Intu (vous)", "forme": "Ruhtu", "phonetique": "ruh-tu" },
+          { "pronom": "Hinne (ils/elles)", "forme": "Raho", "phonetique": "ra-ho" }
+        ]
+      },
+      {
+        "nom": "Futur",
+        "formes": [
+          { "pronom": "Ana (je)", "forme": "Rah bruh", "phonetique": "rah bruh" },
+          { "pronom": "Inta (tu masc.)", "forme": "Rah btruh", "phonetique": "rah btruh" },
+          { "pronom": "Inti (tu fém.)", "forme": "Rah btruh", "phonetique": "rah btruh" },
+          { "pronom": "Hou (il)", "forme": "Rah byruh", "phonetique": "rah by-ruh" },
+          { "pronom": "Hiye (elle)", "forme": "Rah btruh", "phonetique": "rah btruh" },
+          { "pronom": "Nihna (nous)", "forme": "Rah mnruh", "phonetique": "rah mn-ruh" },
+          { "pronom": "Intu (vous)", "forme": "Rah btruhho", "phonetique": "rah btruh-ho" },
+          { "pronom": "Hinne (ils/elles)", "forme": "Rah byruhho", "phonetique": "rah by-ruh-ho" }
+        ]
+      }
+    ]
+  }
+]

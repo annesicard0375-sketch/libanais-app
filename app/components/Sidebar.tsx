@@ -38,8 +38,19 @@ export default function Sidebar({ leconActive }: Props) {
           </div>
         )
       })}
-      <div className="mt-4 pt-4 border-t border-[#e0ddd6]">
-        <p className="text-xs text-[#6b6b66] px-3 italic">A2, B1 — bientôt</p>
+      <div className="mt-4 pt-4 border-t border-[#e0ddd6] space-y-1">
+        <p className="text-xs uppercase tracking-widest text-[#1c1c1a] font-semibold mb-2 px-3">
+          Référence
+        </p>
+        <a href="/reference/grammaire" className="block px-3 py-2 rounded-lg text-sm text-[#6b6b66] hover:bg-[#f4f2ed] hover:text-[#1c1c1a] transition-colors">
+          Grammaire
+        </a>
+        <a href="/reference/conjugaison" className="block px-3 py-2 rounded-lg text-sm text-[#6b6b66] hover:bg-[#f4f2ed] hover:text-[#1c1c1a] transition-colors">
+          Conjugaison
+        </a>
+        <a href="/reference/dictionnaire" className="block px-3 py-2 rounded-lg text-sm text-[#6b6b66] hover:bg-[#f4f2ed] hover:text-[#1c1c1a] transition-colors">
+          Dictionnaire
+        </a>
       </div>
     </aside>
   )

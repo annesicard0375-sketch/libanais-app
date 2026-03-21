@@ -1,0 +1,74 @@
+[
+  {
+    "id": "negation",
+    "titre": "La négation",
+    "explication": "En libanais, la négation se forme avec 'ma' avant le verbe et 'shi' après. C'est comme un sandwich autour du verbe !",
+    "exemples": [
+      { "francais": "Je ne sais pas", "libanais": "Ma baaref shi", "phonetique": "ma baa-ref chi" },
+      { "francais": "Je ne veux pas", "libanais": "Ma baddi shi", "phonetique": "ma bad-di chi" },
+      { "francais": "Il n'est pas là", "libanais": "Mou hon", "phonetique": "mou hon" },
+      { "francais": "Ce n'est pas bon", "libanais": "Mou mnih", "phonetique": "mou mnih" }
+    ]
+  },
+  {
+    "id": "present",
+    "titre": "Le présent",
+    "explication": "Au présent, on ajoute 'b' au début du verbe. Pour dire 'je suis en train de faire', on ajoute '3am' avant.",
+    "exemples": [
+      { "francais": "Je mange", "libanais": "Bekol", "phonetique": "be-kol" },
+      { "francais": "Je suis en train de manger", "libanais": "3am bekol", "phonetique": "3am be-kol" },
+      { "francais": "Tu parles", "libanais": "Bteḥki", "phonetique": "bte-hki" },
+      { "francais": "Il dort", "libanais": "Benom", "phonetique": "be-nom" }
+    ]
+  },
+  {
+    "id": "passe",
+    "titre": "Le passé",
+    "explication": "Le passé est simple — pas de préfixe, juste des suffixes selon la personne. C'est la forme la plus simple du verbe.",
+    "exemples": [
+      { "francais": "J'ai mangé", "libanais": "Akalt", "phonetique": "a-kalt" },
+      { "francais": "Tu as mangé", "libanais": "Akalt", "phonetique": "a-kalt" },
+      { "francais": "Il a mangé", "libanais": "Akal", "phonetique": "a-kal" },
+      { "francais": "Elle a mangé", "libanais": "Aklet", "phonetique": "ak-let" }
+    ]
+  },
+  {
+    "id": "futur",
+    "titre": "Le futur",
+    "explication": "Pour parler du futur, on ajoute 'rah' avant le verbe. Simple et invariable — rah ne change jamais !",
+    "exemples": [
+      { "francais": "Je vais manger", "libanais": "Rah bekol", "phonetique": "rah be-kol" },
+      { "francais": "Tu vas venir", "libanais": "Rah tiji", "phonetique": "rah ti-ji" },
+      { "francais": "Il va partir", "libanais": "Rah yeruh", "phonetique": "rah ye-ruh" },
+      { "francais": "On va y aller", "libanais": "Rah nemshi", "phonetique": "rah nem-chi" }
+    ]
+  },
+  {
+    "id": "pronoms",
+    "titre": "Les pronoms",
+    "explication": "Les pronoms personnels libanais sont proches de l'arabe standard mais avec quelques différences importantes.",
+    "exemples": [
+      { "francais": "Je", "libanais": "Ana", "phonetique": "a-na" },
+      { "francais": "Tu (masc.)", "libanais": "Inta", "phonetique": "in-ta" },
+      { "francais": "Tu (fém.)", "libanais": "Inti", "phonetique": "in-ti" },
+      { "francais": "Il", "libanais": "Hou", "phonetique": "hou" },
+      { "francais": "Elle", "libanais": "Hiye", "phonetique": "hi-yé" },
+      { "francais": "Nous", "libanais": "Nihna", "phonetique": "nih-na" },
+      { "francais": "Vous", "libanais": "Intu", "phonetique": "in-tu" },
+      { "francais": "Ils/Elles", "libanais": "Hinne", "phonetique": "hin-né" }
+    ]
+  },
+  {
+    "id": "questions",
+    "titre": "Poser des questions",
+    "explication": "En libanais, on pose les questions avec des mots interrogatifs simples placés en début de phrase.",
+    "exemples": [
+      { "francais": "Quoi ?", "libanais": "Shou ?", "phonetique": "chou" },
+      { "francais": "Où ?", "libanais": "Wen ?", "phonetique": "wen" },
+      { "francais": "Quand ?", "libanais": "Emta ?", "phonetique": "em-ta" },
+      { "francais": "Pourquoi ?", "libanais": "Lesh ?", "phonetique": "lech" },
+      { "francais": "Comment ?", "libanais": "Kif ?", "phonetique": "kif" },
+      { "francais": "Combien ?", "libanais": "Adesh ?", "phonetique": "a-dèch" }
+    ]
+  }
+]
