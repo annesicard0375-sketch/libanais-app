@@ -1,5 +1,6 @@
 'use client'
 import { useState, useEffect } from 'react'
+import { useProgression } from '@/app/components/useProgression'
 import lecons from '@/data/lecons.json'
 
 export default function Quiz01() {
@@ -9,6 +10,7 @@ export default function Quiz01() {
   const [choix, setChoix] = useState<string | null>(null)
   const [termine, setTermine] = useState(false)
   const [options, setOptions] = useState<string[]>([])
+  const { sauvegarderScore } = useProgression()
 
   useEffect(() => {
     const mot = lecon.mots[index]
@@ -31,6 +33,7 @@ export default function Quiz01() {
 
   function suivant() {
     if (index + 1 >= lecon.mots.length) {
+      sauvegarderScore('01', score)
       setTermine(true)
     } else {
       setIndex(i => i + 1)
