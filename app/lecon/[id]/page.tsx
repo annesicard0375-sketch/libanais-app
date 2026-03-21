@@ -1,25 +1,24 @@
 import lecons from '@/data/lecons.json'
 import MotCard from '@/app/components/MotCard'
+import Sidebar from '@/app/components/Sidebar'
 
-export default function Lecon01() {
-  const lecon = lecons[0]
+export default async function LeconPage({ params }: { params: Promise<{ id: string }> }) {
+  const { id } = await params
+  const lecon = lecons.find(l => l.id === id)
+  if (!lecon) return <p>Leçon introuvable</p>
+
   return (
-    <main className="min-h-screen bg-[#faf9f6] px-6 py-12">
-      <div className="max-w-xl mx-auto">
+    <div className="flex min-h-screen bg-[#faf9f6]">
+      <Sidebar leconActive={id} />
+      <main className="flex-1 px-6 py-12 max-w-xl">
         <a href="/" className="text-sm text-[#1a6b4a] mb-8 inline-block">Retour</a>
         <h1 className="text-3xl font-bold text-[#1c1c1a] mb-2">{lecon.titre}</h1>
-        <p className="text-[#6b6b66] mb-10">Le vrai libanais parle, pas arabe scolaire.</p>
+        <p className="text-[#6b6b66] mb-10">Le vrai libanais parlé, pas arabe scolaire.</p>
 
         <h2 className="text-lg font-semibold text-[#1c1c1a] mb-4">Vocabulaire</h2>
         <div className="space-y-3 mb-12">
           {lecon.mots.map((mot) => (
-            <MotCard
-              key={mot.id}
-              francais={mot.francais}
-              libanais={mot.libanais}
-              phonetique={mot.phonetique}
-              arabe={mot.arabe}
-            />
+            <MotCard key={mot.id} francais={mot.francais} libanais={mot.libanais} phonetique={mot.phonetique} arabe={mot.arabe} />
           ))}
         </div>
 
@@ -49,10 +48,10 @@ export default function Lecon01() {
           </div>
         </div>
 
-        <a href="/lecon/01/quiz" className="inline-block bg-[#1a6b4a] text-white px-8 py-4 rounded-full text-base font-medium">
+        <a href={`/lecon/${id}/quiz`} className="inline-block bg-[#1a6b4a] text-white px-8 py-4 rounded-full text-base font-medium">
           Passer au quiz
         </a>
-      </div>
-    </main>
+      </main>
+    </div>
   )
 }

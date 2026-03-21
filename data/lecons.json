@@ -30,5 +30,133 @@
         { "masculin": "Mnih", "feminin": "Mniha", "traduction": "Ça va bien" }
       ]
     }
+  },
+  {
+    "id": "02",
+    "titre": "Les chiffres et les prix",
+    "theme": "chiffres",
+    "mots": [
+      { "id": "m01", "francais": "Un", "libanais": "Wahed", "phonetique": "wa-hed", "arabe": "واحد" },
+      { "id": "m02", "francais": "Deux", "libanais": "Tnen", "phonetique": "t-nen", "arabe": "تنين" },
+      { "id": "m03", "francais": "Trois", "libanais": "Tlate", "phonetique": "tla-té", "arabe": "تلاتة" },
+      { "id": "m04", "francais": "Quatre", "libanais": "Arba3", "phonetique": "ar-ba3", "arabe": "أربعة" },
+      { "id": "m05", "francais": "Cinq", "libanais": "Khanse", "phonetique": "khan-sé", "arabe": "خمسة" },
+      { "id": "m06", "francais": "Dix", "libanais": "3ashra", "phonetique": "3ach-ra", "arabe": "عشرة" },
+      { "id": "m07", "francais": "Vingt", "libanais": "3ashrin", "phonetique": "3ach-rin", "arabe": "عشرين" },
+      { "id": "m08", "francais": "Cent", "libanais": "Miye", "phonetique": "mi-yé", "arabe": "مية" },
+      { "id": "m09", "francais": "C'est combien ?", "libanais": "Adesh ?", "phonetique": "a-dèch", "arabe": "أديش؟" },
+      { "id": "m10", "francais": "C'est cher", "libanais": "Ghali", "phonetique": "gha-li", "arabe": "غالي" }
+    ],
+    "phrases": [
+      { "id": "p01", "francais": "C'est combien ce t-shirt ?", "libanais": "Adesh hal t-shirt ?", "phonetique": "a-dèch hal t-shirt", "arabe": "أديش هل تي شيرت؟" },
+      { "id": "p02", "francais": "C'est trop cher !", "libanais": "Ktir ghali !", "phonetique": "ktir gha-li", "arabe": "كتير غالي!" },
+      { "id": "p03", "francais": "Vous avez moins cher ?", "libanais": "Fi shi arkhas ?", "phonetique": "fi chi ar-khas", "arabe": "في شي أرخص؟" },
+      { "id": "p04", "francais": "Je prends deux.", "libanais": "Baddi tnen.", "phonetique": "bad-di t-nen", "arabe": "بدي تنين" },
+      { "id": "p05", "francais": "L'addition s'il vous plaît.", "libanais": "El hiseb men fadlak.", "phonetique": "el hi-seb men fad-lak", "arabe": "الحساب من فضلك" }
+    ],
+    "grammaire": {
+      "titre": "Adesh — mot magique",
+      "explication": "'Adesh' veut dire 'combien' mais aussi 'quel âge'. C'est le mot le plus utile pour négocier au marché ou demander un prix !",
+      "exemples": [
+        { "masculin": "Adesh ?", "feminin": "Adesh hal shi ?", "traduction": "Combien ? / C'est combien ça ?" },
+        { "masculin": "Adesh omrak ?", "feminin": "Adesh el se3a ?", "traduction": "Quel âge ? / Quelle heure ?" }
+      ]
+    }
+  },
+  {
+    "id": "03",
+    "titre": "Au café",
+    "theme": "cafe",
+    "mots": [
+      { "id": "m01", "francais": "Un café", "libanais": "Ahwe", "phonetique": "ah-wé", "arabe": "قهوة" },
+      { "id": "m02", "francais": "Un thé", "libanais": "Shay", "phonetique": "chay", "arabe": "شاي" },
+      { "id": "m03", "francais": "De l'eau", "libanais": "May", "phonetique": "may", "arabe": "مي" },
+      { "id": "m04", "francais": "Jus d'orange", "libanais": "3asir burtukan", "phonetique": "3a-sir bur-tu-kan", "arabe": "عصير برتقان" },
+      { "id": "m05", "francais": "Avec sucre", "libanais": "Ma3 sokkar", "phonetique": "ma3 sok-kar", "arabe": "مع سكر" },
+      { "id": "m06", "francais": "Sans sucre", "libanais": "Bidoun sokkar", "phonetique": "bi-doun sok-kar", "arabe": "بدون سكر" },
+      { "id": "m07", "francais": "Je voudrais...", "libanais": "Baddi...", "phonetique": "bad-di", "arabe": "بدي..." },
+      { "id": "m08", "francais": "S'il vous plaît", "libanais": "Men fadlak", "phonetique": "men fad-lak", "arabe": "من فضلك" },
+      { "id": "m09", "francais": "Merci", "libanais": "Shukran", "phonetique": "chuk-ran", "arabe": "شكران" },
+      { "id": "m10", "francais": "C'est délicieux", "libanais": "Ktir tayeb", "phonetique": "ktir ta-yeb", "arabe": "كتير طيب" }
+    ],
+    "phrases": [
+      { "id": "p01", "francais": "Je voudrais un café sans sucre.", "libanais": "Baddi ahwe bidoun sokkar.", "phonetique": "bad-di ah-wé bi-doun sok-kar", "arabe": "بدي قهوة بدون سكر" },
+      { "id": "p02", "francais": "Deux eaux s'il vous plaît.", "libanais": "Tnen may men fadlak.", "phonetique": "t-nen may men fad-lak", "arabe": "تنين مي من فضلك" },
+      { "id": "p03", "francais": "C'est vraiment délicieux !", "libanais": "Wallah ktir tayeb !", "phonetique": "wal-lah ktir ta-yeb", "arabe": "والله كتير طيب!" },
+      { "id": "p04", "francais": "L'addition s'il vous plaît.", "libanais": "El hiseb men fadlak.", "phonetique": "el hi-seb men fad-lak", "arabe": "الحساب من فضلك" },
+      { "id": "p05", "francais": "On se retrouve au café ?", "libanais": "Mnintelaa3 3al ahwe ?", "phonetique": "mni-tel-aa3 3al ah-wé", "arabe": "منتلاقى عالقهوة؟" }
+    ],
+    "grammaire": {
+      "titre": "Baddi — je veux / je voudrais",
+      "explication": "'Baddi' est le mot le plus utile du libanais. Il remplace 'je veux', 'je voudrais', 'j'aimerais'. Pas de conjugaison compliquée — change juste le début selon la personne.",
+      "exemples": [
+        { "masculin": "Baddi", "feminin": "Baddik", "traduction": "Je veux / Tu veux" },
+        { "masculin": "Baddo", "feminin": "Badda", "traduction": "Il veut / Elle veut" }
+      ]
+    }
+  },
+  {
+    "id": "04",
+    "titre": "La famille",
+    "theme": "famille",
+    "mots": [
+      { "id": "m01", "francais": "La mère", "libanais": "El imm", "phonetique": "el imm", "arabe": "الأم" },
+      { "id": "m02", "francais": "Le père", "libanais": "El ab", "phonetique": "el ab", "arabe": "الأب" },
+      { "id": "m03", "francais": "Le frère", "libanais": "El akh", "phonetique": "el akh", "arabe": "الأخ" },
+      { "id": "m04", "francais": "La soeur", "libanais": "El ekht", "phonetique": "el ekht", "arabe": "الأخت" },
+      { "id": "m05", "francais": "Le fils", "libanais": "El iben", "phonetique": "el i-ben", "arabe": "الابن" },
+      { "id": "m06", "francais": "La fille", "libanais": "El benet", "phonetique": "el be-net", "arabe": "البنت" },
+      { "id": "m07", "francais": "Le mari", "libanais": "El joz", "phonetique": "el joz", "arabe": "الجوز" },
+      { "id": "m08", "francais": "La femme", "libanais": "El mara", "phonetique": "el ma-ra", "arabe": "المرا" },
+      { "id": "m09", "francais": "Les grands-parents", "libanais": "El sidi w teta", "phonetique": "el si-di w té-ta", "arabe": "السيدي والتيتا" },
+      { "id": "m10", "francais": "Mon amour", "libanais": "Habibi", "phonetique": "ha-bi-bi", "arabe": "حبيبي" }
+    ],
+    "phrases": [
+      { "id": "p01", "francais": "J'ai deux frères et une soeur.", "libanais": "3andi tnen ikhwe w ekht.", "phonetique": "3an-di t-nen ikh-wé w ekht", "arabe": "عندي تنين إخوة وأخت" },
+      { "id": "p02", "francais": "Ma mère est libanaise.", "libanais": "Immi libnenyye.", "phonetique": "im-mi lib-nen-yyé", "arabe": "إمي لبنانية" },
+      { "id": "p03", "francais": "Tu es marié(e) ?", "libanais": "Inta mjauwaz ?", "phonetique": "in-ta mjauw-waz", "arabe": "انت متجوز؟" },
+      { "id": "p04", "francais": "J'ai deux enfants.", "libanais": "3andi tnen wled.", "phonetique": "3an-di t-nen wled", "arabe": "عندي تنين ولاد" },
+      { "id": "p05", "francais": "Ma famille me manque.", "libanais": "3am beshtaa3 la 3ilte.", "phonetique": "3am bech-taa3 la 3il-té", "arabe": "عم بشتاق لعيلتي" }
+    ],
+    "grammaire": {
+      "titre": "3andi — j'ai",
+      "explication": "'3andi' signifie 'j'ai'. C'est une des constructions les plus utilisées. Pour dire 'tu as', dis '3andak' (à un homme) ou '3andik' (à une femme).",
+      "exemples": [
+        { "masculin": "3andi", "feminin": "3andak / 3andik", "traduction": "J'ai / Tu as" },
+        { "masculin": "3ando", "feminin": "3anda", "traduction": "Il a / Elle a" }
+      ]
+    }
+  },
+  {
+    "id": "05",
+    "titre": "Expressions typiques",
+    "theme": "expressions",
+    "mots": [
+      { "id": "m01", "francais": "Mon Dieu !", "libanais": "Yiii !", "phonetique": "yiii", "arabe": "يي!" },
+      { "id": "m02", "francais": "Vraiment ?", "libanais": "Seriously ?", "phonetique": "sé-rious-ly", "arabe": "جد؟" },
+      { "id": "m03", "francais": "C'est quoi ça ?", "libanais": "Shou hal shi ?", "phonetique": "chou hal chi", "arabe": "شو هل شي؟" },
+      { "id": "m04", "francais": "Pas de problème", "libanais": "Ma fi shi", "phonetique": "ma fi chi", "arabe": "ما في شي" },
+      { "id": "m05", "francais": "Bien sûr", "libanais": "Tab3an", "phonetique": "tab-3an", "arabe": "طبعاً" },
+      { "id": "m06", "francais": "Peut-être", "libanais": "Yimkin", "phonetique": "yim-kin", "arabe": "يمكن" },
+      { "id": "m07", "francais": "Tant pis", "libanais": "Mashi el hal", "phonetique": "ma-chi el hal", "arabe": "ماشي الحال" },
+      { "id": "m08", "francais": "Allez !", "libanais": "Yalla !", "phonetique": "yal-la", "arabe": "يلا!" },
+      { "id": "m09", "francais": "C'est trop bien", "libanais": "Ktir helo", "phonetique": "ktir hé-lo", "arabe": "كتير حلو" },
+      { "id": "m10", "francais": "Je t'en supplie", "libanais": "3anjad", "phonetique": "3an-jad", "arabe": "عنجد" }
+    ],
+    "phrases": [
+      { "id": "p01", "francais": "Allez, on y va !", "libanais": "Yalla nemshi !", "phonetique": "yal-la nem-chi", "arabe": "يلا نمشي!" },
+      { "id": "p02", "francais": "Bien sûr, pas de problème !", "libanais": "Tab3an, ma fi shi !", "phonetique": "tab-3an, ma fi chi", "arabe": "طبعاً، ما في شي!" },
+      { "id": "p03", "francais": "C'est vraiment trop bien !", "libanais": "Wallah ktir helo !", "phonetique": "wal-lah ktir hé-lo", "arabe": "والله كتير حلو!" },
+      { "id": "p04", "francais": "Tu rigoles ?!", "libanais": "3am btehzar ?!", "phonetique": "3am bte-hzar", "arabe": "عم بتهزر؟!" },
+      { "id": "p05", "francais": "Franchement c'est délicieux.", "libanais": "3anjad ktir tayeb.", "phonetique": "3an-jad ktir ta-yeb", "arabe": "عنجد كتير طيب" }
+    ],
+    "grammaire": {
+      "titre": "Wallah — le mot universel",
+      "explication": "'Wallah' veut littéralement dire 'je jure devant Dieu' mais les Libanais l'utilisent pour tout : insister, confirmer, exprimer la surprise. C'est le mot le plus entendu au Liban !",
+      "exemples": [
+        { "masculin": "Wallah ktir tayeb", "feminin": "Wallah ma baaref", "traduction": "C'est vraiment bon / Je sais vraiment pas" },
+        { "masculin": "Wallah !", "feminin": "Wallah 3anjad !", "traduction": "Je te jure ! / Je te jure vraiment !" }
+      ]
+    }
   }
 ]
